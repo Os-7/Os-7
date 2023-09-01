@@ -59,12 +59,13 @@
 
 <h2 align="center">📈 Profile Status<h2>
 <p width="100%" align="center" >
-          <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Os-7&show_icons=true&locale=en&layout=compact" alt="Os-7" />
-          <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Os-7&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+         <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Os-7&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+          <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Os-7&theme=tokyonight" />
 </p>
-
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Os-7&theme=github_dark" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Os-7&theme=github_dark"/>
+         <p align="center">
+<img height="182em" width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Os-7&theme=github_dark" />
+                  <img  height="180em" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Os-7&show_icons=true&locale=en&layout=compact" alt="Os-7" />
+         </p>
+          
 
 [![Omshree's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Os-7&bg_color=000000&color=9e4c98&line=9e4c98&point=ff8585&area=true&hide_border=true)](https://github.com/Os-7/github-readme-activity-graph)
