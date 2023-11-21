@@ -25,6 +25,9 @@
           <img src="https://github-profile-trophy.vercel.app/?username=Os-7&theme=juicyfresh&column=7&margin-w=15&no-frame=true&no-bg=true" />
 </p>
 
+## Hacktoberfest 2022 Badges
+[![An image of @os7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/os7)](https://holopin.io/@os7)
+
 <br>
 <h2 align="center">Coding platforms:</h2>
 <p align="left">
