@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/564x/62/d7/ef/62d7efe0c0f1924192e38e5a1e2ce8f6.jpg" width="100%" height="100%" >
+<img src="https://i.pinimg.com/564x/62/d7/ef/62d7efe0c0f1924192e38e5a1e2ce8f6.jpg" width="100%" height="200%" >
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
